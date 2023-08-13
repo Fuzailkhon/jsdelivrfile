@@ -1,1 +1,2 @@
-alert("Hooola !!!")
+console.log('efwfwe')
+window.alert("Hooola !!!")
